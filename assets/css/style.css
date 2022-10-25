@@ -1,0 +1,47 @@
+body{
+    width: 1440;
+   
+    font-family: 'Raleway', sans-serif;
+}
+.caixa{
+    position: relative;
+    width: 1130px;
+    height: 152px;
+    margin: 0 auto;
+    
+    
+}
+.logo-geek {
+    position:absolute;
+    top: 33%;
+    left: 0px;
+    
+    
+}
+nav{
+    position: absolute;
+    top: 33%;
+    right: 0px;
+    
+}
+
+.input-busca {
+    width: 393px;
+    height: 30px;
+    border-radius: 20px;
+    background: #f5f5f5;
+    padding: 8px 16px;
+    font-size: 14px;
+    line-height: 16px;
+    border: none;
+    margin-right: 300px;
+   
+}
+.button-login{
+    width: 182px;
+    height: 50px;
+    margin-left: 0px;
+    border-color: #2A7AE4;
+    color: #2A7AE4;
+    background-color: white;
+}
